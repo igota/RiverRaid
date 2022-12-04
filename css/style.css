@@ -1,0 +1,17 @@
+body {
+  background-color: #f7f7f7;
+  text-align: center;
+}
+#tela {
+  background-color: #2255aa;
+  border: 1px solid #00efc8;
+}
+button {
+  background-color: #fd0000;
+  color: white;
+  border: 1px solid rgb(255, 255, 255);
+  width: 90px;
+  height: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
