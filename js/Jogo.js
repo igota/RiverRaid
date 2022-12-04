@@ -10,7 +10,7 @@ function Jogo(canvasID) {
   this.emPausa = true;
 }
 this.construir();
-//Fim do construtor
+
 Jogo.instancia = new Jogo("tela");
 
 Jogo.construir = function () {
